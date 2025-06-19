@@ -18,7 +18,7 @@ My goal with this project was to create a reproducible NLP workflow that combine
 * **Naive Bayes**: Baseline model (accuracy = 84%)
 * **Logistic Regression**: Optimized model (accuracy = 90%)
 
-##💡Key Insights:
+## 💡Key Insights:
 Here we can see that the Logistic Regression model outperforms the Naive Bayes model. The Logistic Regression model was able to capture dependencies between words and balance predictions across emotional categories. Moreover, I noticed that preprocessing decisions (especially feature scaling) were critical to performance gains.
 
 ## 📄 Dataset Info: 
