@@ -15,7 +15,7 @@ My goal with this project was to create a reproducible NLP workflow that combine
 * Classification Report for precision, recall, F1-score
 
 ## 📈 Performance Summary
-* **Naive Bayes**: Baseline model (accuracy = 84%)
+* **Naive Bayes**: Initial model (accuracy = 84%)
 * **Logistic Regression**: Optimized model (accuracy = 90%)
 
 ## 💡Key Insights:
