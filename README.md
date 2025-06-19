@@ -1,4 +1,4 @@
-# Tweet Emotion Classification Projec
+# Tweet Emotion Classification Project
 
 ## 🔎 Project Overview
 This project applies supervised learning to classify tweets into six emotions using TF-IDF features and classic machine learning models. By transitioning from Naive Bayes to Logistic Regression, the model's accuracy improved from 84% to 90%, offering a scalable solution for multi-class emotion detection.
